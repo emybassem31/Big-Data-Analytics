@@ -1,5 +1,16 @@
 # Big-Data-Analytics-
 
+## Student Information
+
+- **Name:** Emy Bassem
+- **Student ID:** 231005873
+
+## Completed Tasks
+
+- MapReduce Word Count using Python
+- Tested on the provided text dataset
+- Implemented parallel mappers, combiner, partitioning, shuffle, sort, and reducers
+
 ## Student Instructions
 
 1. Fork this repository to your GitHub account.
